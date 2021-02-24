@@ -1,0 +1,37 @@
+body {
+    background-color: #414c63;
+    color: white;
+    padding: 10px;
+    font-family: Arial;
+    text-align: center;
+    font-weight: 100;
+}
+
+header {
+  align-items: center;
+  padding: 0px;
+  font-size: 2em;
+  background-color: lightgray;
+}
+
+.container {
+  align-items: center;
+  border-style: solid;
+  display: grid; 
+  border-color: tomato;
+}
+
+#main {
+  border-radius: 25px;
+  border: 2px solid;
+  
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: rgb(31, 37, 117);
+  padding: 20px;
+  width: 700px;
+
+}
